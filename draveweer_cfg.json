@@ -1,0 +1,18 @@
+{
+  "favorieten": [
+    {
+      "naam": "Breda",
+      "land": "Nederland",
+      "regio": "Noord-Brabant",
+      "lat": 51.58656,
+      "lon": 4.77596
+    }
+  ],
+  "laatste": {
+    "naam": "Breda",
+    "land": "Nederland",
+    "regio": "Noord-Brabant",
+    "lat": 51.58656,
+    "lon": 4.77596
+  }
+}
